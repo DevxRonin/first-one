@@ -1,4 +1,4 @@
 print("hello world")
 a = "hii"
-b = "hello0"
+b = "hello"
 print(a)
